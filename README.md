@@ -13,6 +13,10 @@ A responsive web system for registering and managing student records.
 
 [GitHub Repository](https://github.com/JKS-sys/student-registration-system-at-0001)
 
+## **Deployment**
+
+[Deployment](https://student-registration-system-at-0001.vercel.app/)
+
 ## **How to Use**
 
 1. Open `index.html` in your browser.
