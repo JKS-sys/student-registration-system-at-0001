@@ -11,7 +11,7 @@ A responsive web system for registering and managing student records.
 
 ## **GitHub Link**
 
-[GitHub Repository](https://github.com/JKS-sys/student-registration-system)
+[GitHub Repository](https://github.com/JKS-sys/student-registration-system-at-0001)
 
 ## **How to Use**
 
