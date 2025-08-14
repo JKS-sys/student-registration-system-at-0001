@@ -9,6 +9,10 @@ A responsive web system for registering and managing student records.
 - Responsive for mobile, tablet, desktop
 - Creative, clean interface
 
+## **GitHub Link**
+
+[GitHub Repository](https://github.com/JKS-sys/student-registration-system)
+
 ## **How to Use**
 
 1. Open `index.html` in your browser.
